@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\Polimorfismo\Empresa\Empresa\bin\Debug\Empresa.exe.config
+C:\Users\Gabriel\source\repos\Polimorfismo\Empresa\Empresa\bin\Debug\Empresa.exe
+C:\Users\Gabriel\source\repos\Polimorfismo\Empresa\Empresa\bin\Debug\Empresa.pdb
+C:\Users\Gabriel\source\repos\Polimorfismo\Empresa\Empresa\obj\Debug\Empresa.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Polimorfismo\Empresa\Empresa\obj\Debug\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Polimorfismo\Empresa\Empresa\obj\Debug\Empresa.exe
+C:\Users\Gabriel\source\repos\Polimorfismo\Empresa\Empresa\obj\Debug\Empresa.pdb

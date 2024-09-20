@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\Polimorfismo\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\Gabriel\source\repos\Polimorfismo\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\Gabriel\source\repos\Polimorfismo\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\Gabriel\source\repos\Polimorfismo\Banco\Banco\obj\Debug\Banco.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Polimorfismo\Banco\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Polimorfismo\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\Gabriel\source\repos\Polimorfismo\Banco\Banco\obj\Debug\Banco.pdb

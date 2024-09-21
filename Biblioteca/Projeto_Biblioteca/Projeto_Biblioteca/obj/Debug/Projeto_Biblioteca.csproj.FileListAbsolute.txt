@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\Projeto_Biblioteca.exe.config
+C:\Users\Gabriel\source\repos\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\Projeto_Biblioteca.exe
+C:\Users\Gabriel\source\repos\Projeto_Biblioteca\Projeto_Biblioteca\bin\Debug\Projeto_Biblioteca.pdb
+C:\Users\Gabriel\source\repos\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.exe
+C:\Users\Gabriel\source\repos\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.pdb

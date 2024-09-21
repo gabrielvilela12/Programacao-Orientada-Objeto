@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\Publicacao\Publicacao\bin\Debug\Publicacao.exe.config
+C:\Users\Gabriel\source\repos\Publicacao\Publicacao\bin\Debug\Publicacao.exe
+C:\Users\Gabriel\source\repos\Publicacao\Publicacao\bin\Debug\Publicacao.pdb
+C:\Users\Gabriel\source\repos\Publicacao\Publicacao\obj\Debug\Publicacao.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Publicacao\Publicacao\obj\Debug\Publicacao.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Publicacao\Publicacao\obj\Debug\Publicacao.exe
+C:\Users\Gabriel\source\repos\Publicacao\Publicacao\obj\Debug\Publicacao.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\Biblioteca\\Projeto_Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E59E455E-E055-44DE-A066-CEA0CFCEA8E9}|Projeto_Biblioteca\\Projeto_Biblioteca.csproj|c:\\users\\gabriel\\source\\repos\\biblioteca\\projeto_biblioteca\\projeto_biblioteca\\entidades\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59E455E-E055-44DE-A066-CEA0CFCEA8E9}|Projeto_Biblioteca\\Projeto_Biblioteca.csproj|solutionrelative:projeto_biblioteca\\entidades\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Biblioteca\\Projeto_Biblioteca\\Projeto_Biblioteca\\Entidades\\Livro.cs",
+              "RelativeDocumentMoniker": "Projeto_Biblioteca\\Entidades\\Livro.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Biblioteca\\Projeto_Biblioteca\\Projeto_Biblioteca\\Entidades\\Livro.cs",
+              "RelativeToolTip": "Projeto_Biblioteca\\Entidades\\Livro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T19:05:12.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

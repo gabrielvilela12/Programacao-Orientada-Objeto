@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\ExerciciosPOO\ExerciciosPOO\obj\Debug\ExerciciosPOO.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\ExerciciosPOO\ExerciciosPOO\obj\Debug\ExerciciosPOO.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\ExerciciosPOO\ExerciciosPOO\bin\Debug\ExerciciosPOO.exe.config
+C:\Users\Gabriel\source\repos\ExerciciosPOO\ExerciciosPOO\bin\Debug\ExerciciosPOO.exe
+C:\Users\Gabriel\source\repos\ExerciciosPOO\ExerciciosPOO\bin\Debug\ExerciciosPOO.pdb
+C:\Users\Gabriel\source\repos\ExerciciosPOO\ExerciciosPOO\obj\Debug\ExerciciosPOO.exe
+C:\Users\Gabriel\source\repos\ExerciciosPOO\ExerciciosPOO\obj\Debug\ExerciciosPOO.pdb

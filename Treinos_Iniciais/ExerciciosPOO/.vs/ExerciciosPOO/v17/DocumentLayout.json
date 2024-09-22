@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\ExerciciosPOO\\",
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\Treinos_Iniciais\\ExerciciosPOO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{458DFB29-3555-4E51-A5EC-496F2A3CC944}|ExerciciosPOO\\ExerciciosPOO.csproj|c:\\users\\gabriel\\source\\repos\\exerciciospoo\\exerciciospoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{458DFB29-3555-4E51-A5EC-496F2A3CC944}|ExerciciosPOO\\ExerciciosPOO.csproj|c:\\users\\gabriel\\source\\repos\\treinos_iniciais\\exerciciospoo\\exerciciospoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{458DFB29-3555-4E51-A5EC-496F2A3CC944}|ExerciciosPOO\\ExerciciosPOO.csproj|solutionrelative:exerciciospoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{458DFB29-3555-4E51-A5EC-496F2A3CC944}|ExerciciosPOO\\ExerciciosPOO.csproj|c:\\users\\gabriel\\source\\repos\\exerciciospoo\\exerciciospoo\\classes\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{458DFB29-3555-4E51-A5EC-496F2A3CC944}|ExerciciosPOO\\ExerciciosPOO.csproj|C:\\Users\\Gabriel\\source\\repos\\Treinos_Iniciais\\ExerciciosPOO\\exerciciospoo\\classes\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{458DFB29-3555-4E51-A5EC-496F2A3CC944}|ExerciciosPOO\\ExerciciosPOO.csproj|solutionrelative:exerciciospoo\\classes\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{458DFB29-3555-4E51-A5EC-496F2A3CC944}|ExerciciosPOO\\ExerciciosPOO.csproj|c:\\users\\gabriel\\source\\repos\\exerciciospoo\\exerciciospoo\\classes\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{458DFB29-3555-4E51-A5EC-496F2A3CC944}|ExerciciosPOO\\ExerciciosPOO.csproj|C:\\Users\\Gabriel\\source\\repos\\Treinos_Iniciais\\ExerciciosPOO\\exerciciospoo\\classes\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{458DFB29-3555-4E51-A5EC-496F2A3CC944}|ExerciciosPOO\\ExerciciosPOO.csproj|solutionrelative:exerciciospoo\\classes\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Calculator.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\ExerciciosPOO\\ExerciciosPOO\\Classes\\Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Treinos_Iniciais\\ExerciciosPOO\\ExerciciosPOO\\Classes\\Calculator.cs",
               "RelativeDocumentMoniker": "ExerciciosPOO\\Classes\\Calculator.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\ExerciciosPOO\\ExerciciosPOO\\Classes\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Treinos_Iniciais\\ExerciciosPOO\\ExerciciosPOO\\Classes\\Calculator.cs",
               "RelativeToolTip": "ExerciciosPOO\\Classes\\Calculator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T18:58:57.984Z",
               "EditorCaption": ""
@@ -41,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Estoque.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\ExerciciosPOO\\ExerciciosPOO\\Classes\\Estoque.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Treinos_Iniciais\\ExerciciosPOO\\ExerciciosPOO\\Classes\\Estoque.cs",
               "RelativeDocumentMoniker": "ExerciciosPOO\\Classes\\Estoque.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\ExerciciosPOO\\ExerciciosPOO\\Classes\\Estoque.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Treinos_Iniciais\\ExerciciosPOO\\ExerciciosPOO\\Classes\\Estoque.cs",
               "RelativeToolTip": "ExerciciosPOO\\Classes\\Estoque.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T18:56:12.348Z",
               "EditorCaption": ""
@@ -54,11 +54,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\ExerciciosPOO\\ExerciciosPOO\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Treinos_Iniciais\\ExerciciosPOO\\ExerciciosPOO\\Program.cs",
               "RelativeDocumentMoniker": "ExerciciosPOO\\Program.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\ExerciciosPOO\\ExerciciosPOO\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Treinos_Iniciais\\ExerciciosPOO\\ExerciciosPOO\\Program.cs",
               "RelativeToolTip": "ExerciciosPOO\\Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAADEAAAAAAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEwAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T18:54:16.272Z",
               "EditorCaption": ""

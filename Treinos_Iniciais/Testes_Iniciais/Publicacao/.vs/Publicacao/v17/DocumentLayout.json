@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\Publicacao\\",
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\Treinos_Iniciais\\Publicacao\\Publicacao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54243C56-E8B6-4361-AA34-8D7EFF4FE3C8}|Publicacao\\Publicacao.csproj|C:\\Users\\Gabriel\\source\\repos\\Publicacao\\publicacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{54243C56-E8B6-4361-AA34-8D7EFF4FE3C8}|Publicacao\\Publicacao.csproj|c:\\users\\gabriel\\source\\repos\\treinos_iniciais\\publicacao\\publicacao\\publicacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54243C56-E8B6-4361-AA34-8D7EFF4FE3C8}|Publicacao\\Publicacao.csproj|solutionrelative:publicacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54243C56-E8B6-4361-AA34-8D7EFF4FE3C8}|Publicacao\\Publicacao.csproj|c:\\users\\gabriel\\source\\repos\\publicacao\\publicacao\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{54243C56-E8B6-4361-AA34-8D7EFF4FE3C8}|Publicacao\\Publicacao.csproj|C:\\Users\\Gabriel\\source\\repos\\Treinos_Iniciais\\Publicacao\\Publicacao\\publicacao\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54243C56-E8B6-4361-AA34-8D7EFF4FE3C8}|Publicacao\\Publicacao.csproj|solutionrelative:publicacao\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54243C56-E8B6-4361-AA34-8D7EFF4FE3C8}|Publicacao\\Publicacao.csproj|C:\\Users\\Gabriel\\source\\repos\\Publicacao\\publicacao\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{54243C56-E8B6-4361-AA34-8D7EFF4FE3C8}|Publicacao\\Publicacao.csproj|C:\\Users\\Gabriel\\source\\repos\\Treinos_Iniciais\\Publicacao\\Publicacao\\publicacao\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54243C56-E8B6-4361-AA34-8D7EFF4FE3C8}|Publicacao\\Publicacao.csproj|solutionrelative:publicacao\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,22 +28,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Post.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Publicacao\\Publicacao\\Entities\\Post.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Treinos_Iniciais\\Publicacao\\Publicacao\\Publicacao\\Entities\\Post.cs",
               "RelativeDocumentMoniker": "Publicacao\\Entities\\Post.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Publicacao\\Publicacao\\Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Treinos_Iniciais\\Publicacao\\Publicacao\\Publicacao\\Entities\\Post.cs",
               "RelativeToolTip": "Publicacao\\Entities\\Post.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAADsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T15:18:03.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T15:18:03.53Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Publicacao\\Publicacao\\Entities\\Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Treinos_Iniciais\\Publicacao\\Publicacao\\Publicacao\\Entities\\Comment.cs",
               "RelativeDocumentMoniker": "Publicacao\\Entities\\Comment.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Publicacao\\Publicacao\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Treinos_Iniciais\\Publicacao\\Publicacao\\Publicacao\\Entities\\Comment.cs",
               "RelativeToolTip": "Publicacao\\Entities\\Comment.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -53,11 +52,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Publicacao\\Publicacao\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Treinos_Iniciais\\Publicacao\\Publicacao\\Publicacao\\Program.cs",
               "RelativeDocumentMoniker": "Publicacao\\Program.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Publicacao\\Publicacao\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Treinos_Iniciais\\Publicacao\\Publicacao\\Publicacao\\Program.cs",
               "RelativeToolTip": "Publicacao\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAiAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T15:13:30.879Z",
               "EditorCaption": ""

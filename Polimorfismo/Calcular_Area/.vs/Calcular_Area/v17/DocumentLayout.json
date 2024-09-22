@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\Polimorfismo\\Calcular_Area\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F13C1E9-3681-4A87-AF85-0DA42E343192}|Calcular_Area\\Calcular_Area.csproj|c:\\users\\gabriel\\source\\repos\\polimorfismo\\calcular_area\\calcular_area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F13C1E9-3681-4A87-AF85-0DA42E343192}|Calcular_Area\\Calcular_Area.csproj|solutionrelative:calcular_area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F13C1E9-3681-4A87-AF85-0DA42E343192}|Calcular_Area\\Calcular_Area.csproj|c:\\users\\gabriel\\source\\repos\\polimorfismo\\calcular_area\\calcular_area\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F13C1E9-3681-4A87-AF85-0DA42E343192}|Calcular_Area\\Calcular_Area.csproj|solutionrelative:calcular_area\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F13C1E9-3681-4A87-AF85-0DA42E343192}|Calcular_Area\\Calcular_Area.csproj|c:\\users\\gabriel\\source\\repos\\polimorfismo\\calcular_area\\calcular_area\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F13C1E9-3681-4A87-AF85-0DA42E343192}|Calcular_Area\\Calcular_Area.csproj|solutionrelative:calcular_area\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F13C1E9-3681-4A87-AF85-0DA42E343192}|Calcular_Area\\Calcular_Area.csproj|c:\\users\\gabriel\\source\\repos\\polimorfismo\\calcular_area\\calcular_area\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F13C1E9-3681-4A87-AF85-0DA42E343192}|Calcular_Area\\Calcular_Area.csproj|solutionrelative:calcular_area\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Polimorfismo\\Calcular_Area\\Calcular_Area\\Entities\\Shape.cs",
+              "RelativeDocumentMoniker": "Calcular_Area\\Entities\\Shape.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Polimorfismo\\Calcular_Area\\Calcular_Area\\Entities\\Shape.cs",
+              "RelativeToolTip": "Calcular_Area\\Entities\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:19:51.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Polimorfismo\\Calcular_Area\\Calcular_Area\\Entities\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Calcular_Area\\Entities\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Polimorfismo\\Calcular_Area\\Calcular_Area\\Entities\\Rectangle.cs",
+              "RelativeToolTip": "Calcular_Area\\Entities\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T21:19:42.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Polimorfismo\\Calcular_Area\\Calcular_Area\\Entities\\Circle.cs",
+              "RelativeDocumentMoniker": "Calcular_Area\\Entities\\Circle.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Polimorfismo\\Calcular_Area\\Calcular_Area\\Entities\\Circle.cs",
+              "RelativeToolTip": "Calcular_Area\\Entities\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T20:50:42.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Polimorfismo\\Calcular_Area\\Calcular_Area\\Program.cs",
+              "RelativeDocumentMoniker": "Calcular_Area\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Polimorfismo\\Calcular_Area\\Calcular_Area\\Program.cs",
+              "RelativeToolTip": "Calcular_Area\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T20:34:51.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

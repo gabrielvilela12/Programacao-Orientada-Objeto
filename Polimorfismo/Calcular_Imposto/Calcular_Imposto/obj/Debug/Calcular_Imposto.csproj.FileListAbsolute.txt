@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\Polimorfismo\Calcular_Imposto\Calcular_Imposto\bin\Debug\Calcular_Imposto.exe.config
+C:\Users\Gabriel\source\repos\Polimorfismo\Calcular_Imposto\Calcular_Imposto\bin\Debug\Calcular_Imposto.exe
+C:\Users\Gabriel\source\repos\Polimorfismo\Calcular_Imposto\Calcular_Imposto\bin\Debug\Calcular_Imposto.pdb
+C:\Users\Gabriel\source\repos\Polimorfismo\Calcular_Imposto\Calcular_Imposto\obj\Debug\Calcular_Imposto.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Polimorfismo\Calcular_Imposto\Calcular_Imposto\obj\Debug\Calcular_Imposto.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Polimorfismo\Calcular_Imposto\Calcular_Imposto\obj\Debug\Calcular_Imposto.exe
+C:\Users\Gabriel\source\repos\Polimorfismo\Calcular_Imposto\Calcular_Imposto\obj\Debug\Calcular_Imposto.pdb

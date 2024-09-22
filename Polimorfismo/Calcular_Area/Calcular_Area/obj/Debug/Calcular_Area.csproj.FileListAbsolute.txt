@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\Polimorfismo\Calcular_Area\Calcular_Area\bin\Debug\Calcular_Area.exe.config
+C:\Users\Gabriel\source\repos\Polimorfismo\Calcular_Area\Calcular_Area\bin\Debug\Calcular_Area.exe
+C:\Users\Gabriel\source\repos\Polimorfismo\Calcular_Area\Calcular_Area\bin\Debug\Calcular_Area.pdb
+C:\Users\Gabriel\source\repos\Polimorfismo\Calcular_Area\Calcular_Area\obj\Debug\Calcular_Area.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Polimorfismo\Calcular_Area\Calcular_Area\obj\Debug\Calcular_Area.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Polimorfismo\Calcular_Area\Calcular_Area\obj\Debug\Calcular_Area.exe
+C:\Users\Gabriel\source\repos\Polimorfismo\Calcular_Area\Calcular_Area\obj\Debug\Calcular_Area.pdb

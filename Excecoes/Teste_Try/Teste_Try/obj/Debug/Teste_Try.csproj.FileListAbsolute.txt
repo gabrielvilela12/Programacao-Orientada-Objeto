@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\Polimorfismo\Teste_Try\Teste_Try\bin\Debug\Teste_Try.exe.config
+C:\Users\Gabriel\source\repos\Polimorfismo\Teste_Try\Teste_Try\bin\Debug\Teste_Try.exe
+C:\Users\Gabriel\source\repos\Polimorfismo\Teste_Try\Teste_Try\bin\Debug\Teste_Try.pdb
+C:\Users\Gabriel\source\repos\Polimorfismo\Teste_Try\Teste_Try\obj\Debug\Teste_Try.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Polimorfismo\Teste_Try\Teste_Try\obj\Debug\Teste_Try.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Polimorfismo\Teste_Try\Teste_Try\obj\Debug\Teste_Try.exe
+C:\Users\Gabriel\source\repos\Polimorfismo\Teste_Try\Teste_Try\obj\Debug\Teste_Try.pdb

@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\Excecoes\Reserva_Hotel\Reserva_Hotel\bin\Debug\Reserva_Hotel.exe.config
+C:\Users\Gabriel\source\repos\Excecoes\Reserva_Hotel\Reserva_Hotel\bin\Debug\Reserva_Hotel.exe
+C:\Users\Gabriel\source\repos\Excecoes\Reserva_Hotel\Reserva_Hotel\bin\Debug\Reserva_Hotel.pdb
+C:\Users\Gabriel\source\repos\Excecoes\Reserva_Hotel\Reserva_Hotel\obj\Debug\Reserva_Hotel.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Excecoes\Reserva_Hotel\Reserva_Hotel\obj\Debug\Reserva_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Excecoes\Reserva_Hotel\Reserva_Hotel\obj\Debug\Reserva_Hotel.exe
+C:\Users\Gabriel\source\repos\Excecoes\Reserva_Hotel\Reserva_Hotel\obj\Debug\Reserva_Hotel.pdb

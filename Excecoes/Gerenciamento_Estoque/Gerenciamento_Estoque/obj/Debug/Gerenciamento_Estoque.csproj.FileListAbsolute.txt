@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\Excecoes\Gerenciamento_Estoque\Gerenciamento_Estoque\bin\Debug\Gerenciamento_Estoque.exe.config
+C:\Users\Gabriel\source\repos\Excecoes\Gerenciamento_Estoque\Gerenciamento_Estoque\bin\Debug\Gerenciamento_Estoque.exe
+C:\Users\Gabriel\source\repos\Excecoes\Gerenciamento_Estoque\Gerenciamento_Estoque\bin\Debug\Gerenciamento_Estoque.pdb
+C:\Users\Gabriel\source\repos\Excecoes\Gerenciamento_Estoque\Gerenciamento_Estoque\obj\Debug\Gerenciamento_Estoque.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Excecoes\Gerenciamento_Estoque\Gerenciamento_Estoque\obj\Debug\Gerenciamento_Estoque.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Excecoes\Gerenciamento_Estoque\Gerenciamento_Estoque\obj\Debug\Gerenciamento_Estoque.exe
+C:\Users\Gabriel\source\repos\Excecoes\Gerenciamento_Estoque\Gerenciamento_Estoque\obj\Debug\Gerenciamento_Estoque.pdb

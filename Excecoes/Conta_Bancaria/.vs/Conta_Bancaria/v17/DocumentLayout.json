@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\Excecoes\\Conta_Bancaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C703AAA-E2D5-4381-B2CD-07F149FAB43F}|Conta_Bancaria\\Conta_Bancaria.csproj|C:\\Users\\Gabriel\\source\\repos\\Excecoes\\Conta_Bancaria\\conta_bancaria\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C703AAA-E2D5-4381-B2CD-07F149FAB43F}|Conta_Bancaria\\Conta_Bancaria.csproj|solutionrelative:conta_bancaria\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C703AAA-E2D5-4381-B2CD-07F149FAB43F}|Conta_Bancaria\\Conta_Bancaria.csproj|c:\\users\\gabriel\\source\\repos\\excecoes\\conta_bancaria\\conta_bancaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C703AAA-E2D5-4381-B2CD-07F149FAB43F}|Conta_Bancaria\\Conta_Bancaria.csproj|solutionrelative:conta_bancaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C703AAA-E2D5-4381-B2CD-07F149FAB43F}|Conta_Bancaria\\Conta_Bancaria.csproj|C:\\Users\\Gabriel\\source\\repos\\Excecoes\\Conta_Bancaria\\conta_bancaria\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C703AAA-E2D5-4381-B2CD-07F149FAB43F}|Conta_Bancaria\\Conta_Bancaria.csproj|solutionrelative:conta_bancaria\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Excecoes\\Conta_Bancaria\\Conta_Bancaria\\DomainException.cs",
+              "RelativeDocumentMoniker": "Conta_Bancaria\\DomainException.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Excecoes\\Conta_Bancaria\\Conta_Bancaria\\DomainException.cs",
+              "RelativeToolTip": "Conta_Bancaria\\DomainException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T22:08:36.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Excecoes\\Conta_Bancaria\\Conta_Bancaria\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "Conta_Bancaria\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Excecoes\\Conta_Bancaria\\Conta_Bancaria\\Entities\\Account.cs",
+              "RelativeToolTip": "Conta_Bancaria\\Entities\\Account.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:49:44.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Excecoes\\Conta_Bancaria\\Conta_Bancaria\\Program.cs",
+              "RelativeDocumentMoniker": "Conta_Bancaria\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Excecoes\\Conta_Bancaria\\Conta_Bancaria\\Program.cs",
+              "RelativeToolTip": "Conta_Bancaria\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:49:07.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

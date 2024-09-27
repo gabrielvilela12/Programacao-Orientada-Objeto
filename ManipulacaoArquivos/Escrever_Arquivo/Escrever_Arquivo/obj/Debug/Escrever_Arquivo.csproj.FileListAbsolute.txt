@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Escrever_Arquivo\Escrever_Arquivo\bin\Debug\Escrever_Arquivo.exe.config
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Escrever_Arquivo\Escrever_Arquivo\bin\Debug\Escrever_Arquivo.exe
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Escrever_Arquivo\Escrever_Arquivo\bin\Debug\Escrever_Arquivo.pdb
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Escrever_Arquivo\Escrever_Arquivo\obj\Debug\Escrever_Arquivo.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Escrever_Arquivo\Escrever_Arquivo\obj\Debug\Escrever_Arquivo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Escrever_Arquivo\Escrever_Arquivo\obj\Debug\Escrever_Arquivo.exe
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Escrever_Arquivo\Escrever_Arquivo\obj\Debug\Escrever_Arquivo.pdb

@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Listar_Arquivos\Listar_Arquivos\bin\Debug\Listar_Arquivos.exe.config
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Listar_Arquivos\Listar_Arquivos\bin\Debug\Listar_Arquivos.exe
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Listar_Arquivos\Listar_Arquivos\bin\Debug\Listar_Arquivos.pdb
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Listar_Arquivos\Listar_Arquivos\obj\Debug\Listar_Arquivos.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Listar_Arquivos\Listar_Arquivos\obj\Debug\Listar_Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Listar_Arquivos\Listar_Arquivos\obj\Debug\Listar_Arquivos.exe
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Listar_Arquivos\Listar_Arquivos\obj\Debug\Listar_Arquivos.pdb

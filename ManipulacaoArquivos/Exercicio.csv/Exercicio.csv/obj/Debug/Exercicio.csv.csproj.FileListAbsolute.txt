@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Exercicio.csv\Exercicio.csv\bin\Debug\Exercicio.csv.exe.config
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Exercicio.csv\Exercicio.csv\bin\Debug\Exercicio.csv.exe
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Exercicio.csv\Exercicio.csv\bin\Debug\Exercicio.csv.pdb
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Exercicio.csv\Exercicio.csv\obj\Debug\Exercicio.csv.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Exercicio.csv\Exercicio.csv\obj\Debug\Exercicio.csv.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Exercicio.csv\Exercicio.csv\obj\Debug\Exercicio.csv.exe
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Exercicio.csv\Exercicio.csv\obj\Debug\Exercicio.csv.pdb

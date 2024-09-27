@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Criar_Excel\Criar_Excel\bin\Debug\Criar_Excel.exe.config
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Criar_Excel\Criar_Excel\bin\Debug\Criar_Excel.exe
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Criar_Excel\Criar_Excel\bin\Debug\Criar_Excel.pdb
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Criar_Excel\Criar_Excel\obj\Debug\Criar_Excel.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Criar_Excel\Criar_Excel\obj\Debug\Criar_Excel.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Criar_Excel\Criar_Excel\obj\Debug\Criar_Excel.exe
+C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Criar_Excel\Criar_Excel\obj\Debug\Criar_Excel.pdb

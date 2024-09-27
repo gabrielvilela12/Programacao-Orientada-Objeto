@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escrever_Arquivo", "Escrever_Arquivo\Escrever_Arquivo.csproj", "{B7F9452B-6A19-4838-A6B6-9805489CAB40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7F9452B-6A19-4838-A6B6-9805489CAB40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F9452B-6A19-4838-A6B6-9805489CAB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F9452B-6A19-4838-A6B6-9805489CAB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F9452B-6A19-4838-A6B6-9805489CAB40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D352E03-7D8D-4E26-90CA-BD8F3A84175B}
+	EndGlobalSection
+EndGlobal

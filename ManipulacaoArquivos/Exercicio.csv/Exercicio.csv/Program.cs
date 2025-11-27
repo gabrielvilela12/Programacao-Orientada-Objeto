@@ -14,7 +14,7 @@ namespace Exercicio.csv
         {
             List<Product> pobj_Products = new List<Product>();
 
-            //Cria 2 strings com os caminho do arquivo feito, e o arquivo que será gerado com 
+            //Cria 2 strings com os caminho do arquivo feito, e o arquivo que será gerado com o caminho da "Copia"
             string sourcePath = @"C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Exercicio.csv\Excel\Original.csv";
             string targetPath = @"C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Exercicio.csv\Excel\Copia.csv";
 

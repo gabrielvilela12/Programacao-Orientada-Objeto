@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe.config
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Exercicio2\Exercicio2\bin\Debug\Exercicio2.pdb
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Exercicio2\Exercicio2\obj\Debug\Exercicio2.exe
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Exercicio2\Exercicio2\obj\Debug\Exercicio2.pdb

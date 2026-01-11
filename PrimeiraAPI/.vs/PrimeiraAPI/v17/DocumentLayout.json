@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\PrimeiraAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BD163E-1B04-4107-9978-9E7ECCB71EB7}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\gabriel\\source\\repos\\primeiraapi\\primeiraapi\\primeiraapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4BD163E-1B04-4107-9978-9E7ECCB71EB7}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\primeiraapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BD163E-1B04-4107-9978-9E7ECCB71EB7}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\gabriel\\source\\repos\\primeiraapi\\primeiraapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BD163E-1B04-4107-9978-9E7ECCB71EB7}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BD163E-1B04-4107-9978-9E7ECCB71EB7}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\gabriel\\source\\repos\\primeiraapi\\primeiraapi\\infraestrutura\\connectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BD163E-1B04-4107-9978-9E7ECCB71EB7}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\infraestrutura\\connectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BD163E-1B04-4107-9978-9E7ECCB71EB7}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\gabriel\\source\\repos\\primeiraapi\\primeiraapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BD163E-1B04-4107-9978-9E7ECCB71EB7}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BD163E-1B04-4107-9978-9E7ECCB71EB7}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\gabriel\\source\\repos\\primeiraapi\\primeiraapi\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BD163E-1B04-4107-9978-9E7ECCB71EB7}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BD163E-1B04-4107-9978-9E7ECCB71EB7}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\gabriel\\source\\repos\\primeiraapi\\primeiraapi\\controllers\\iemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BD163E-1B04-4107-9978-9E7ECCB71EB7}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\controllers\\iemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrimeiraAPI",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\PrimeiraAPI.csproj",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\PrimeiraAPI.csproj",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\PrimeiraAPI.csproj*",
+              "RelativeToolTip": "PrimeiraAPI\\PrimeiraAPI.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-30T15:13:20.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Program.cs*",
+              "RelativeToolTip": "PrimeiraAPI\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T15:06:58.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Services\\TokenService.cs*",
+              "RelativeToolTip": "PrimeiraAPI\\Services\\TokenService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T14:59:51.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Key.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Key.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Key.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Key.cs*",
+              "RelativeToolTip": "PrimeiraAPI\\Key.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T14:58:36.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Controllers\\IEmployeeController.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Controllers\\IEmployeeController.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Controllers\\IEmployeeController.cs",
+              "RelativeToolTip": "PrimeiraAPI\\Controllers\\IEmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:34:52.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConnectionContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Infraestrutura\\ConnectionContext.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Infraestrutura\\ConnectionContext.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\PrimeiraAPI\\PrimeiraAPI\\Infraestrutura\\ConnectionContext.cs",
+              "RelativeToolTip": "PrimeiraAPI\\Infraestrutura\\ConnectionContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:15:37.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\SortedSet\SortedSet\bin\Debug\SortedSet.exe.config
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\SortedSet\SortedSet\bin\Debug\SortedSet.exe
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\SortedSet\SortedSet\bin\Debug\SortedSet.pdb
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\SortedSet\SortedSet\obj\Debug\SortedSet.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\SortedSet\SortedSet\obj\Debug\SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\SortedSet\SortedSet\obj\Debug\SortedSet.exe
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\SortedSet\SortedSet\obj\Debug\SortedSet.pdb

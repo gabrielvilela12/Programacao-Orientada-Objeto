@@ -18,9 +18,9 @@ namespace Exercicio.csv
             string sourcePath = @"C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Exercicio.csv\Excel\Original.csv";
             string targetPath = @"C:\Users\Gabriel\source\repos\ManipulacaoArquivos\Exercicio.csv\Excel\Copia.csv";
 
-
             try
             {
+
                 //Escreve no documento principal as informações abaixo
                 using (StreamWriter sw = new StreamWriter(sourcePath))
                 {
@@ -29,6 +29,7 @@ namespace Exercicio.csv
                     sw.WriteLine("Video Game Chair;350,50;3");
                     sw.WriteLine("Iphone X;900;2");
                     sw.WriteLine("Samsung Galaxy 9;850,50;2");
+                    sw.WriteLine("");
                 }
 
                 using (StreamReader sr = new StreamReader(sourcePath))
@@ -75,8 +76,9 @@ namespace Exercicio.csv
             }
             catch (Exception e)
             {
-                Console.WriteLine(e.ToString());
+                Console.WriteLine(e.Message) ;
             }
+         
             finally
             {
                 Console.ReadLine();

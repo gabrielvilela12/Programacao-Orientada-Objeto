@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\Interfaces\Ordenar_Pessoas\Ordenar_Pessoas\bin\Debug\Ordenar_Pessoas.exe.config
+C:\Users\Gabriel\source\repos\Interfaces\Ordenar_Pessoas\Ordenar_Pessoas\bin\Debug\Ordenar_Pessoas.exe
+C:\Users\Gabriel\source\repos\Interfaces\Ordenar_Pessoas\Ordenar_Pessoas\bin\Debug\Ordenar_Pessoas.pdb
+C:\Users\Gabriel\source\repos\Interfaces\Ordenar_Pessoas\Ordenar_Pessoas\obj\Debug\Ordenar_Pessoas.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Interfaces\Ordenar_Pessoas\Ordenar_Pessoas\obj\Debug\Ordenar_Pessoas.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Interfaces\Ordenar_Pessoas\Ordenar_Pessoas\obj\Debug\Ordenar_Pessoas.exe
+C:\Users\Gabriel\source\repos\Interfaces\Ordenar_Pessoas\Ordenar_Pessoas\obj\Debug\Ordenar_Pessoas.pdb

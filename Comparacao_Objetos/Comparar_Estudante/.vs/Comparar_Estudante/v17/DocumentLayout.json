@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Comparar_Estudante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F233A8C-3038-44AF-A8B2-3C19390E9DB8}|Comparar_Estudante\\Comparar_Estudante.csproj|c:\\users\\gabriel\\source\\repos\\comparacao_objetos\\comparar_estudante\\comparar_estudante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F233A8C-3038-44AF-A8B2-3C19390E9DB8}|Comparar_Estudante\\Comparar_Estudante.csproj|solutionrelative:comparar_estudante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F233A8C-3038-44AF-A8B2-3C19390E9DB8}|Comparar_Estudante\\Comparar_Estudante.csproj|C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Comparar_Estudante\\comparar_estudante\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F233A8C-3038-44AF-A8B2-3C19390E9DB8}|Comparar_Estudante\\Comparar_Estudante.csproj|solutionrelative:comparar_estudante\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F233A8C-3038-44AF-A8B2-3C19390E9DB8}|Comparar_Estudante\\Comparar_Estudante.csproj|C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Comparar_Estudante\\comparar_estudante\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F233A8C-3038-44AF-A8B2-3C19390E9DB8}|Comparar_Estudante\\Comparar_Estudante.csproj|solutionrelative:comparar_estudante\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F233A8C-3038-44AF-A8B2-3C19390E9DB8}|Comparar_Estudante\\Comparar_Estudante.csproj|C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Comparar_Estudante\\comparar_estudante\\entities\\course1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F233A8C-3038-44AF-A8B2-3C19390E9DB8}|Comparar_Estudante\\Comparar_Estudante.csproj|solutionrelative:comparar_estudante\\entities\\course1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F233A8C-3038-44AF-A8B2-3C19390E9DB8}|Comparar_Estudante\\Comparar_Estudante.csproj|C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Comparar_Estudante\\comparar_estudante\\entities\\enum\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F233A8C-3038-44AF-A8B2-3C19390E9DB8}|Comparar_Estudante\\Comparar_Estudante.csproj|solutionrelative:comparar_estudante\\entities\\enum\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Comparar_Estudante\\Comparar_Estudante\\Entities\\Enum\\Enum.cs",
+              "RelativeDocumentMoniker": "Comparar_Estudante\\Entities\\Enum\\Enum.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Comparar_Estudante\\Comparar_Estudante\\Entities\\Enum\\Enum.cs",
+              "RelativeToolTip": "Comparar_Estudante\\Entities\\Enum\\Enum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:56:46.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Comparar_Estudante\\Comparar_Estudante\\Program.cs",
+              "RelativeDocumentMoniker": "Comparar_Estudante\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Comparar_Estudante\\Comparar_Estudante\\Program.cs",
+              "RelativeToolTip": "Comparar_Estudante\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:51:09.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course1.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Comparar_Estudante\\Comparar_Estudante\\Entities\\Course1.cs",
+              "RelativeDocumentMoniker": "Comparar_Estudante\\Entities\\Course1.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Comparar_Estudante\\Comparar_Estudante\\Entities\\Course1.cs",
+              "RelativeToolTip": "Comparar_Estudante\\Entities\\Course1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:31:53.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Comparar_Estudante\\Comparar_Estudante\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Comparar_Estudante\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Comparar_Estudante\\Comparar_Estudante\\Entities\\Course.cs",
+              "RelativeToolTip": "Comparar_Estudante\\Entities\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:54:03.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Comparar_Estudante\\Comparar_Estudante\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Comparar_Estudante\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Comparar_Estudante\\Comparar_Estudante\\Entities\\Student.cs",
+              "RelativeToolTip": "Comparar_Estudante\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:52:18.781Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

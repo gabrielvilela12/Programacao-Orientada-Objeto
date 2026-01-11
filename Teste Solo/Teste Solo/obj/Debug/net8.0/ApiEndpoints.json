@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "Teste_Solo.Controllers.CartaoCreditoApiController",
+    "Method": "CreateCartaoCredito",
+    "RelativePath": "api/CartaoCreditoApi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartaoCredito",
+        "Type": "Teste_Solo.Model.CartaoCredito",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Teste_Solo.Controllers.CartaoCreditoApiController",
+    "Method": "GetAllCartoesCredito",
+    "RelativePath": "api/CartaoCreditoApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Teste_Solo.Controllers.CartaoCreditoApiController",
+    "Method": "GetCartaoCreditoById",
+    "RelativePath": "api/CartaoCreditoApi/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

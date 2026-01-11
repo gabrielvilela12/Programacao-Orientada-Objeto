@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\Extension_methods\Cortar_String\Cortar_String\bin\Debug\Cortar_String.exe.config
+C:\Users\Gabriel\source\repos\Extension_methods\Cortar_String\Cortar_String\bin\Debug\Cortar_String.exe
+C:\Users\Gabriel\source\repos\Extension_methods\Cortar_String\Cortar_String\bin\Debug\Cortar_String.pdb
+C:\Users\Gabriel\source\repos\Extension_methods\Cortar_String\Cortar_String\obj\Debug\Cortar_String.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Extension_methods\Cortar_String\Cortar_String\obj\Debug\Cortar_String.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Extension_methods\Cortar_String\Cortar_String\obj\Debug\Cortar_String.exe
+C:\Users\Gabriel\source\repos\Extension_methods\Cortar_String\Cortar_String\obj\Debug\Cortar_String.pdb

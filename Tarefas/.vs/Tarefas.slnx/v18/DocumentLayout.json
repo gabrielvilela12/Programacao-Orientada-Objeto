@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\Tarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78B27889-DBA9-499A-8977-78FB0A2107C6}|Tarefas\\Tarefas.csproj|c:\\users\\gabriel\\source\\repos\\tarefas\\tarefas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B27889-DBA9-499A-8977-78FB0A2107C6}|Tarefas\\Tarefas.csproj|solutionrelative:tarefas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B27889-DBA9-499A-8977-78FB0A2107C6}|Tarefas\\Tarefas.csproj|c:\\users\\gabriel\\source\\repos\\tarefas\\tarefas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78B27889-DBA9-499A-8977-78FB0A2107C6}|Tarefas\\Tarefas.csproj|solutionrelative:tarefas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B27889-DBA9-499A-8977-78FB0A2107C6}|Tarefas\\Tarefas.csproj|c:\\users\\gabriel\\source\\repos\\tarefas\\tarefas\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B27889-DBA9-499A-8977-78FB0A2107C6}|Tarefas\\Tarefas.csproj|solutionrelative:tarefas\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B27889-DBA9-499A-8977-78FB0A2107C6}|Tarefas\\Tarefas.csproj|c:\\users\\gabriel\\source\\repos\\tarefas\\tarefas\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78B27889-DBA9-499A-8977-78FB0A2107C6}|Tarefas\\Tarefas.csproj|solutionrelative:tarefas\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B27889-DBA9-499A-8977-78FB0A2107C6}|Tarefas\\Tarefas.csproj|c:\\users\\gabriel\\source\\repos\\tarefas\\tarefas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78B27889-DBA9-499A-8977-78FB0A2107C6}|Tarefas\\Tarefas.csproj|solutionrelative:tarefas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Tarefas\\Tarefas\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Tarefas\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Tarefas\\Tarefas\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Tarefas\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:20:11.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeModel.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Tarefas\\Tarefas\\Models\\HomeModel.cs",
+              "RelativeDocumentMoniker": "Tarefas\\Models\\HomeModel.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Tarefas\\Tarefas\\Models\\HomeModel.cs",
+              "RelativeToolTip": "Tarefas\\Models\\HomeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:19:19.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Tarefas\\Tarefas\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Tarefas\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Tarefas\\Tarefas\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Tarefas\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T21:18:05.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Tarefas\\Tarefas\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Tarefas\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Tarefas\\Tarefas\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Tarefas\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T21:13:18.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Tarefas\\Tarefas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Tarefas\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Tarefas\\Tarefas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Tarefas\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T21:05:56.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

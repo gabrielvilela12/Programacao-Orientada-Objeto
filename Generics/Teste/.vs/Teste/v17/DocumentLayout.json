@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\Generics\\Teste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B42F2A0F-AAC5-4D68-AB87-329C41292D3A}|Teste\\Teste.csproj|c:\\users\\gabriel\\source\\repos\\generics\\teste\\teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42F2A0F-AAC5-4D68-AB87-329C41292D3A}|Teste\\Teste.csproj|solutionrelative:teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42F2A0F-AAC5-4D68-AB87-329C41292D3A}|Teste\\Teste.csproj|C:\\Users\\Gabriel\\source\\repos\\Generics\\Teste\\teste\\printservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42F2A0F-AAC5-4D68-AB87-329C41292D3A}|Teste\\Teste.csproj|solutionrelative:teste\\printservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrintService.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Generics\\Teste\\Teste\\PrintService.cs",
+              "RelativeDocumentMoniker": "Teste\\PrintService.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Generics\\Teste\\Teste\\PrintService.cs",
+              "RelativeToolTip": "Teste\\PrintService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:48:38.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Generics\\Teste\\Teste\\Program.cs",
+              "RelativeDocumentMoniker": "Teste\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Generics\\Teste\\Teste\\Program.cs",
+              "RelativeToolTip": "Teste\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T14:48:11.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

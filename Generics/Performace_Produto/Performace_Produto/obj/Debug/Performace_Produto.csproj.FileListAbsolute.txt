@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\Generics\Performace_Produto\Performace_Produto\bin\Debug\Performace_Produto.exe.config
+C:\Users\Gabriel\source\repos\Generics\Performace_Produto\Performace_Produto\bin\Debug\Performace_Produto.exe
+C:\Users\Gabriel\source\repos\Generics\Performace_Produto\Performace_Produto\bin\Debug\Performace_Produto.pdb
+C:\Users\Gabriel\source\repos\Generics\Performace_Produto\Performace_Produto\obj\Debug\Performace_Produto.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Generics\Performace_Produto\Performace_Produto\obj\Debug\Performace_Produto.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Generics\Performace_Produto\Performace_Produto\obj\Debug\Performace_Produto.exe
+C:\Users\Gabriel\source\repos\Generics\Performace_Produto\Performace_Produto\obj\Debug\Performace_Produto.pdb

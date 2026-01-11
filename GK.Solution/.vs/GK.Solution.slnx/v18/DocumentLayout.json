@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\GK.Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{804AA7DB-2171-4D7C-BEB6-7508FBCB6364}|Domain\\Gk.Domain.csproj|c:\\users\\gabriel\\source\\repos\\gk.solution\\domain\\enums\\perfilusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804AA7DB-2171-4D7C-BEB6-7508FBCB6364}|Domain\\Gk.Domain.csproj|solutionrelative:domain\\enums\\perfilusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C90FBA-F128-42F5-B6E9-3B0555BF0425}|GK.Application\\GK.Application.csproj|c:\\users\\gabriel\\source\\repos\\gk.solution\\gk.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C90FBA-F128-42F5-B6E9-3B0555BF0425}|GK.Application\\GK.Application.csproj|solutionrelative:gk.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804AA7DB-2171-4D7C-BEB6-7508FBCB6364}|Domain\\Gk.Domain.csproj|c:\\users\\gabriel\\source\\repos\\gk.solution\\domain\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804AA7DB-2171-4D7C-BEB6-7508FBCB6364}|Domain\\Gk.Domain.csproj|solutionrelative:domain\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C90FBA-F128-42F5-B6E9-3B0555BF0425}|GK.Application\\GK.Application.csproj|c:\\users\\gabriel\\source\\repos\\gk.solution\\gk.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C90FBA-F128-42F5-B6E9-3B0555BF0425}|GK.Application\\GK.Application.csproj|solutionrelative:gk.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF035ACF-F9A1-46DE-B160-EBC07157ADF0}|GK.Web\\GK.Web.csproj|c:\\users\\gabriel\\source\\repos\\gk.solution\\gk.web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF035ACF-F9A1-46DE-B160-EBC07157ADF0}|GK.Web\\GK.Web.csproj|solutionrelative:gk.web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF035ACF-F9A1-46DE-B160-EBC07157ADF0}|GK.Web\\GK.Web.csproj|c:\\users\\gabriel\\source\\repos\\gk.solution\\gk.web\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF035ACF-F9A1-46DE-B160-EBC07157ADF0}|GK.Web\\GK.Web.csproj|solutionrelative:gk.web\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C90FBA-F128-42F5-B6E9-3B0555BF0425}|GK.Application\\GK.Application.csproj|c:\\users\\gabriel\\source\\repos\\gk.solution\\gk.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C90FBA-F128-42F5-B6E9-3B0555BF0425}|GK.Application\\GK.Application.csproj|solutionrelative:gk.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C90FBA-F128-42F5-B6E9-3B0555BF0425}|GK.Application\\GK.Application.csproj|c:\\users\\gabriel\\source\\repos\\gk.solution\\gk.application\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C90FBA-F128-42F5-B6E9-3B0555BF0425}|GK.Application\\GK.Application.csproj|solutionrelative:gk.application\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804AA7DB-2171-4D7C-BEB6-7508FBCB6364}|Domain\\Gk.Domain.csproj|c:\\users\\gabriel\\source\\repos\\gk.solution\\domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{804AA7DB-2171-4D7C-BEB6-7508FBCB6364}|Domain\\Gk.Domain.csproj|solutionrelative:domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C90FBA-F128-42F5-B6E9-3B0555BF0425}|GK.Application\\GK.Application.csproj|c:\\users\\gabriel\\source\\repos\\gk.solution\\gk.application\\gk.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8C90FBA-F128-42F5-B6E9-3B0555BF0425}|GK.Application\\GK.Application.csproj|solutionrelative:gk.application\\gk.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BF16F9-90FE-4342-BEC7-38563748A8D3}|GK.Infrastructure\\GK.Infrastructure.csproj|c:\\users\\gabriel\\source\\repos\\gk.solution\\gk.infrastructure\\gk.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4BF16F9-90FE-4342-BEC7-38563748A8D3}|GK.Infrastructure\\GK.Infrastructure.csproj|solutionrelative:gk.infrastructure\\gk.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF035ACF-F9A1-46DE-B160-EBC07157ADF0}|GK.Web\\GK.Web.csproj|c:\\users\\gabriel\\source\\repos\\gk.solution\\gk.web\\gk.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF035ACF-F9A1-46DE-B160-EBC07157ADF0}|GK.Web\\GK.Web.csproj|solutionrelative:gk.web\\gk.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\GK.Solution\\GK.Web\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "GK.Web\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\GK.Solution\\GK.Web\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "GK.Web\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T22:47:27.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\GK.Solution\\GK.Application\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "GK.Application\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\GK.Solution\\GK.Application\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "GK.Application\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T22:44:33.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\GK.Solution\\GK.Web\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "GK.Web\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\GK.Solution\\GK.Web\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "GK.Web\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T22:40:45.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\GK.Solution\\GK.Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "GK.Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\GK.Solution\\GK.Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "GK.Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T22:25:31.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\GK.Solution\\GK.Application\\Interfaces\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "GK.Application\\Interfaces\\IPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\GK.Solution\\GK.Application\\Interfaces\\IPasswordHasher.cs",
+              "RelativeToolTip": "GK.Application\\Interfaces\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T22:23:17.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\GK.Solution\\Domain\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\GK.Solution\\Domain\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T22:19:37.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\GK.Solution\\GK.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "GK.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\GK.Solution\\GK.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "GK.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T22:14:45.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GK.Application",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\GK.Solution\\GK.Application\\GK.Application.csproj",
+              "RelativeDocumentMoniker": "GK.Application\\GK.Application.csproj",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\GK.Solution\\GK.Application\\GK.Application.csproj",
+              "RelativeToolTip": "GK.Application\\GK.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-23T22:05:24.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PerfilUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\GK.Solution\\Domain\\Enums\\PerfilUsuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\PerfilUsuario.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\GK.Solution\\Domain\\Enums\\PerfilUsuario.cs",
+              "RelativeToolTip": "Domain\\Enums\\PerfilUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T22:12:11.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\GK.Solution\\Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\GK.Solution\\Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T22:08:18.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GK.Web",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\GK.Solution\\GK.Web\\GK.Web.csproj",
+              "RelativeDocumentMoniker": "GK.Web\\GK.Web.csproj",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\GK.Solution\\GK.Web\\GK.Web.csproj",
+              "RelativeToolTip": "GK.Web\\GK.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-23T22:03:22.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GK.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\GK.Solution\\GK.Infrastructure\\GK.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "GK.Infrastructure\\GK.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\GK.Solution\\GK.Infrastructure\\GK.Infrastructure.csproj",
+              "RelativeToolTip": "GK.Infrastructure\\GK.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-23T22:02:34.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

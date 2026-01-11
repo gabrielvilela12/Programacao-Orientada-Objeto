@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\Comparacao_Igualdade\Comparacao_Igualdade\bin\Debug\Comparacao_Igualdade.exe.config
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\Comparacao_Igualdade\Comparacao_Igualdade\bin\Debug\Comparacao_Igualdade.exe
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\Comparacao_Igualdade\Comparacao_Igualdade\bin\Debug\Comparacao_Igualdade.pdb
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\Comparacao_Igualdade\Comparacao_Igualdade\obj\Debug\Comparacao_Igualdade.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\Comparacao_Igualdade\Comparacao_Igualdade\obj\Debug\Comparacao_Igualdade.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\Comparacao_Igualdade\Comparacao_Igualdade\obj\Debug\Comparacao_Igualdade.exe
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\Comparacao_Igualdade\Comparacao_Igualdade\obj\Debug\Comparacao_Igualdade.pdb

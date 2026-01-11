@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\LINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{862D30B8-8F89-46AD-9ADD-95C0ECE563A4}|LINQ\\LINQ.csproj|c:\\users\\gabriel\\source\\repos\\programacao_funcional\\linq\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862D30B8-8F89-46AD-9ADD-95C0ECE563A4}|LINQ\\LINQ.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862D30B8-8F89-46AD-9ADD-95C0ECE563A4}|LINQ\\LINQ.csproj|C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\LINQ\\linq\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862D30B8-8F89-46AD-9ADD-95C0ECE563A4}|LINQ\\LINQ.csproj|solutionrelative:linq\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\LINQ\\LINQ\\Product.cs",
+              "RelativeDocumentMoniker": "LINQ\\Product.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\LINQ\\LINQ\\Product.cs",
+              "RelativeToolTip": "LINQ\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T03:16:03.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\LINQ\\LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\LINQ\\LINQ\\Program.cs*",
+              "RelativeToolTip": "LINQ\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T03:15:43.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\appsettings.json
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\Teste Solo.staticwebassets.endpoints.json
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\Teste Solo.exe
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\Teste Solo.deps.json
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\Teste Solo.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\Teste Solo.dll
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\Teste Solo.pdb
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\obj\Debug\net8.0\Teste Solo.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\obj\Debug\net8.0\Teste Solo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\obj\Debug\net8.0\Teste Solo.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\obj\Debug\net8.0\Teste Solo.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\obj\Debug\net8.0\Teste Solo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\obj\Debug\net8.0\Teste Solo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\obj\Debug\net8.0\Teste Solo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\obj\Debug\net8.0\Teste Solo.sourcelink.json
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\obj\Debug\net8.0\scopedcss\bundle\Teste Solo.styles.css
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\obj\Debug\net8.0\Teste Solo.csproj.Up2Date
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\obj\Debug\net8.0\Teste Solo.dll
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\obj\Debug\net8.0\refint\Teste Solo.dll
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\obj\Debug\net8.0\Teste Solo.pdb
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\obj\Debug\net8.0\Teste Solo.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\obj\Debug\net8.0\ref\Teste Solo.dll
+C:\Users\Gabriel\source\repos\Teste Solo\Teste Solo\bin\Debug\net8.0\Teste Solo.staticwebassets.runtime.json

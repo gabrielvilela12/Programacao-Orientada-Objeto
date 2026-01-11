@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Registrar_Log\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12EF8764-56B3-47D6-B74C-7F269B231CBF}|Registrar_Log\\Registrar_Log.csproj|c:\\users\\gabriel\\source\\repos\\comparacao_objetos\\registrar_log\\registrar_log\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EF8764-56B3-47D6-B74C-7F269B231CBF}|Registrar_Log\\Registrar_Log.csproj|solutionrelative:registrar_log\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EF8764-56B3-47D6-B74C-7F269B231CBF}|Registrar_Log\\Registrar_Log.csproj|C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Registrar_Log\\registrar_log\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EF8764-56B3-47D6-B74C-7F269B231CBF}|Registrar_Log\\Registrar_Log.csproj|solutionrelative:registrar_log\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12EF8764-56B3-47D6-B74C-7F269B231CBF}|Registrar_Log\\Registrar_Log.csproj|C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Registrar_Log\\registrar_log\\entities\\logrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12EF8764-56B3-47D6-B74C-7F269B231CBF}|Registrar_Log\\Registrar_Log.csproj|solutionrelative:registrar_log\\entities\\logrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Registrar_Log\\Registrar_Log\\Entities\\LogRecord.cs",
+              "RelativeDocumentMoniker": "Registrar_Log\\Entities\\LogRecord.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Registrar_Log\\Registrar_Log\\Entities\\LogRecord.cs",
+              "RelativeToolTip": "Registrar_Log\\Entities\\LogRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:26:38.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Registrar_Log\\Registrar_Log\\Client.cs",
+              "RelativeDocumentMoniker": "Registrar_Log\\Client.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Registrar_Log\\Registrar_Log\\Client.cs",
+              "RelativeToolTip": "Registrar_Log\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:34:13.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Registrar_Log\\Registrar_Log\\Program.cs",
+              "RelativeDocumentMoniker": "Registrar_Log\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Registrar_Log\\Registrar_Log\\Program.cs",
+              "RelativeToolTip": "Registrar_Log\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB4AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:32:31.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

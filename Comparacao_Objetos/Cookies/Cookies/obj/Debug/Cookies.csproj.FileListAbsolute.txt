@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\Cookies\Cookies\bin\Debug\Cookies.exe.config
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\Cookies\Cookies\bin\Debug\Cookies.exe
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\Cookies\Cookies\bin\Debug\Cookies.pdb
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\Cookies\Cookies\obj\Debug\Cookies.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\Cookies\Cookies\obj\Debug\Cookies.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\Cookies\Cookies\obj\Debug\Cookies.exe
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\Cookies\Cookies\obj\Debug\Cookies.pdb

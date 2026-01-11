@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\Func\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{469EDB67-8C89-4DD9-938D-CE57543E20C6}|Func\\Func.csproj|C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\Func\\func\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469EDB67-8C89-4DD9-938D-CE57543E20C6}|Func\\Func.csproj|solutionrelative:func\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469EDB67-8C89-4DD9-938D-CE57543E20C6}|Func\\Func.csproj|c:\\users\\gabriel\\source\\repos\\programacao_funcional\\func\\func\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469EDB67-8C89-4DD9-938D-CE57543E20C6}|Func\\Func.csproj|solutionrelative:func\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\Func\\Func\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Func\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\Func\\Func\\Entities\\Product.cs",
+              "RelativeToolTip": "Func\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:59:46.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\Func\\Func\\Program.cs",
+              "RelativeDocumentMoniker": "Func\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\Func\\Func\\Program.cs",
+              "RelativeToolTip": "Func\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:59:20.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

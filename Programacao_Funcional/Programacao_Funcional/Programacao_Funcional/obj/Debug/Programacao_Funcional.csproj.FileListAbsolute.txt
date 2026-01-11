@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Programacao_Funcional\Programacao_Funcional\bin\Debug\Programacao_Funcional.exe.config
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Programacao_Funcional\Programacao_Funcional\bin\Debug\Programacao_Funcional.exe
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Programacao_Funcional\Programacao_Funcional\bin\Debug\Programacao_Funcional.pdb
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Programacao_Funcional\Programacao_Funcional\obj\Debug\Programacao_Funcional.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Programacao_Funcional\Programacao_Funcional\obj\Debug\Programacao_Funcional.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Programacao_Funcional\Programacao_Funcional\obj\Debug\Programacao_Funcional.exe
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Programacao_Funcional\Programacao_Funcional\obj\Debug\Programacao_Funcional.pdb

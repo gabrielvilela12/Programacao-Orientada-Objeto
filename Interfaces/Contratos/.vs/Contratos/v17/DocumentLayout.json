@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\Interfaces\\Contratos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07D7B85E-F980-49BF-AE4A-D96E6E6C295A}|Contratos\\Contratos.csproj|c:\\users\\gabriel\\source\\repos\\interfaces\\contratos\\contratos\\entities\\installments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D7B85E-F980-49BF-AE4A-D96E6E6C295A}|Contratos\\Contratos.csproj|solutionrelative:contratos\\entities\\installments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D7B85E-F980-49BF-AE4A-D96E6E6C295A}|Contratos\\Contratos.csproj|c:\\users\\gabriel\\source\\repos\\interfaces\\contratos\\contratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D7B85E-F980-49BF-AE4A-D96E6E6C295A}|Contratos\\Contratos.csproj|solutionrelative:contratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D7B85E-F980-49BF-AE4A-D96E6E6C295A}|Contratos\\Contratos.csproj|c:\\users\\gabriel\\source\\repos\\interfaces\\contratos\\contratos\\service\\contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D7B85E-F980-49BF-AE4A-D96E6E6C295A}|Contratos\\Contratos.csproj|solutionrelative:contratos\\service\\contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D7B85E-F980-49BF-AE4A-D96E6E6C295A}|Contratos\\Contratos.csproj|c:\\users\\gabriel\\source\\repos\\interfaces\\contratos\\contratos\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D7B85E-F980-49BF-AE4A-D96E6E6C295A}|Contratos\\Contratos.csproj|solutionrelative:contratos\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D7B85E-F980-49BF-AE4A-D96E6E6C295A}|Contratos\\Contratos.csproj|c:\\users\\gabriel\\source\\repos\\interfaces\\contratos\\contratos\\service\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D7B85E-F980-49BF-AE4A-D96E6E6C295A}|Contratos\\Contratos.csproj|solutionrelative:contratos\\service\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D7B85E-F980-49BF-AE4A-D96E6E6C295A}|Contratos\\Contratos.csproj|c:\\users\\gabriel\\source\\repos\\interfaces\\contratos\\contratos\\service\\ionlinepaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D7B85E-F980-49BF-AE4A-D96E6E6C295A}|Contratos\\Contratos.csproj|solutionrelative:contratos\\service\\ionlinepaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaypalService.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Interfaces\\Contratos\\Contratos\\Service\\PaypalService.cs",
+              "RelativeDocumentMoniker": "Contratos\\Service\\PaypalService.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Interfaces\\Contratos\\Contratos\\Service\\PaypalService.cs",
+              "RelativeToolTip": "Contratos\\Service\\PaypalService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:23:47.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContractService.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Interfaces\\Contratos\\Contratos\\Service\\ContractService.cs",
+              "RelativeDocumentMoniker": "Contratos\\Service\\ContractService.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Interfaces\\Contratos\\Contratos\\Service\\ContractService.cs",
+              "RelativeToolTip": "Contratos\\Service\\ContractService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:25:15.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOnlinePaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Interfaces\\Contratos\\Contratos\\Service\\IOnlinePaymentService.cs",
+              "RelativeDocumentMoniker": "Contratos\\Service\\IOnlinePaymentService.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Interfaces\\Contratos\\Contratos\\Service\\IOnlinePaymentService.cs",
+              "RelativeToolTip": "Contratos\\Service\\IOnlinePaymentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:23:47.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Installments.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Interfaces\\Contratos\\Contratos\\Entities\\Installments.cs",
+              "RelativeDocumentMoniker": "Contratos\\Entities\\Installments.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Interfaces\\Contratos\\Contratos\\Entities\\Installments.cs",
+              "RelativeToolTip": "Contratos\\Entities\\Installments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:23:47.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Interfaces\\Contratos\\Contratos\\Entities\\Contract.cs",
+              "RelativeDocumentMoniker": "Contratos\\Entities\\Contract.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Interfaces\\Contratos\\Contratos\\Entities\\Contract.cs",
+              "RelativeToolTip": "Contratos\\Entities\\Contract.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:23:47.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Interfaces\\Contratos\\Contratos\\Program.cs",
+              "RelativeDocumentMoniker": "Contratos\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Interfaces\\Contratos\\Contratos\\Program.cs",
+              "RelativeToolTip": "Contratos\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:45:47.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

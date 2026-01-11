@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\HashSet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C085DDA5-652B-431A-8067-A271A746C032}|HashSet\\HashSet.csproj|c:\\users\\gabriel\\source\\repos\\comparacao_objetos\\hashset\\hashset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C085DDA5-652B-431A-8067-A271A746C032}|HashSet\\HashSet.csproj|solutionrelative:hashset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\HashSet\\HashSet\\Program.cs",
+              "RelativeDocumentMoniker": "HashSet\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\HashSet\\HashSet\\Program.cs",
+              "RelativeToolTip": "HashSet\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:05:24.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Comparacao_Igualdade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C91D84D-4AE1-48E7-98B5-E3AAF375E098}|Comparacao_Igualdade\\Comparacao_Igualdade.csproj|C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Comparacao_Igualdade\\comparacao_igualdade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C91D84D-4AE1-48E7-98B5-E3AAF375E098}|Comparacao_Igualdade\\Comparacao_Igualdade.csproj|solutionrelative:comparacao_igualdade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C91D84D-4AE1-48E7-98B5-E3AAF375E098}|Comparacao_Igualdade\\Comparacao_Igualdade.csproj|c:\\users\\gabriel\\source\\repos\\comparacao_objetos\\comparacao_igualdade\\comparacao_igualdade\\entities\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C91D84D-4AE1-48E7-98B5-E3AAF375E098}|Comparacao_Igualdade\\Comparacao_Igualdade.csproj|solutionrelative:comparacao_igualdade\\entities\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C91D84D-4AE1-48E7-98B5-E3AAF375E098}|Comparacao_Igualdade\\Comparacao_Igualdade.csproj|c:\\users\\gabriel\\source\\repos\\comparacao_objetos\\comparacao_igualdade\\comparacao_igualdade\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C91D84D-4AE1-48E7-98B5-E3AAF375E098}|Comparacao_Igualdade\\Comparacao_Igualdade.csproj|solutionrelative:comparacao_igualdade\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Comparacao_Igualdade\\Comparacao_Igualdade\\Entities\\Point.cs",
+              "RelativeDocumentMoniker": "Comparacao_Igualdade\\Entities\\Point.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Comparacao_Igualdade\\Comparacao_Igualdade\\Entities\\Point.cs",
+              "RelativeToolTip": "Comparacao_Igualdade\\Entities\\Point.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:56:38.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Comparacao_Igualdade\\Comparacao_Igualdade\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Comparacao_Igualdade\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Comparacao_Igualdade\\Comparacao_Igualdade\\Entities\\Product.cs",
+              "RelativeToolTip": "Comparacao_Igualdade\\Entities\\Product.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:03:53.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Comparacao_Igualdade\\Comparacao_Igualdade\\Program.cs",
+              "RelativeDocumentMoniker": "Comparacao_Igualdade\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Comparacao_Objetos\\Comparacao_Igualdade\\Comparacao_Igualdade\\Program.cs",
+              "RelativeToolTip": "Comparacao_Igualdade\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:03:11.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

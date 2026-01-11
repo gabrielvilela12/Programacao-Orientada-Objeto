@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Action\Action\bin\Debug\Action.exe.config
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Action\Action\bin\Debug\Action.exe
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Action\Action\bin\Debug\Action.pdb
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Action\Action\obj\Debug\Action.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Action\Action\obj\Debug\Action.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Action\Action\obj\Debug\Action.exe
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Action\Action\obj\Debug\Action.pdb

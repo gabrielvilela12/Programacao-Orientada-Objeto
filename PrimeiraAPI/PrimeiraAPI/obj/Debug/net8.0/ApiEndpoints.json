@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "PrimeiraAPI.Controllers.EmployeeController",
+    "Method": "Add",
+    "RelativePath": "api/v1/employee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Age",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Photo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PrimeiraAPI.Controllers.EmployeeController",
+    "Method": "Get",
+    "RelativePath": "api/v1/employee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PrimeiraAPI.Controllers.EmployeeController",
+    "Method": "DowloadPhoto",
+    "RelativePath": "api/v1/employee/{id}/dowload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

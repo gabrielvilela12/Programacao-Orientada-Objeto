@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\Exercicio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{488E5DEA-ADCC-426D-A292-F74D52DD1ADF}|Exercicio2\\Exercicio2.csproj|c:\\users\\gabriel\\source\\repos\\programacao_funcional\\exercicio2\\exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488E5DEA-ADCC-426D-A292-F74D52DD1ADF}|Exercicio2\\Exercicio2.csproj|solutionrelative:exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488E5DEA-ADCC-426D-A292-F74D52DD1ADF}|Exercicio2\\Exercicio2.csproj|C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\Exercicio2\\exercicio2\\helper\\funcgeral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488E5DEA-ADCC-426D-A292-F74D52DD1ADF}|Exercicio2\\Exercicio2.csproj|solutionrelative:exercicio2\\helper\\funcgeral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488E5DEA-ADCC-426D-A292-F74D52DD1ADF}|Exercicio2\\Exercicio2.csproj|C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\Exercicio2\\exercicio2\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488E5DEA-ADCC-426D-A292-F74D52DD1ADF}|Exercicio2\\Exercicio2.csproj|solutionrelative:exercicio2\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FuncGeral.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\Exercicio2\\Exercicio2\\Helper\\FuncGeral.cs",
+              "RelativeDocumentMoniker": "Exercicio2\\Helper\\FuncGeral.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\Exercicio2\\Exercicio2\\Helper\\FuncGeral.cs",
+              "RelativeToolTip": "Exercicio2\\Helper\\FuncGeral.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:54:02.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\Exercicio2\\Exercicio2\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Exercicio2\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\Exercicio2\\Exercicio2\\Entities\\Employee.cs",
+              "RelativeToolTip": "Exercicio2\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:27:51.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\Exercicio2\\Exercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\Exercicio2\\Exercicio2\\Program.cs",
+              "RelativeToolTip": "Exercicio2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:23:32.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

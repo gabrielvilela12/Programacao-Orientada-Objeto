@@ -1,0 +1,29 @@
+﻿@model GK.Application.DTOs.LoginDto
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h2>Acesso ao Sistema</h2>
+
+@if (ViewBag.Erro != null)
+{
+    <div class="alert alert-danger">@ViewBag.Erro</div>
+}
+
+<form asp-action="Entrar" method="post">
+    
+    <div class="form-group mb-3">
+        <label>Email</label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label>Senha</label>
+        <input asp-for="Senha" type="password" class="form-control" />
+        <span asp-validation-for="Senha" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Entrar</button>
+</form>

@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\Interfaces\Contratos\Contratos\bin\Debug\Contratos.exe.config
+C:\Users\Gabriel\source\repos\Interfaces\Contratos\Contratos\bin\Debug\Contratos.exe
+C:\Users\Gabriel\source\repos\Interfaces\Contratos\Contratos\bin\Debug\Contratos.pdb
+C:\Users\Gabriel\source\repos\Interfaces\Contratos\Contratos\obj\Debug\Contratos.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Interfaces\Contratos\Contratos\obj\Debug\Contratos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Interfaces\Contratos\Contratos\obj\Debug\Contratos.exe
+C:\Users\Gabriel\source\repos\Interfaces\Contratos\Contratos\obj\Debug\Contratos.pdb

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\Exercicio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB63F69-5D3F-4531-BC57-16415855EAE4}|Exercicio\\Exercicio.csproj|c:\\users\\gabriel\\source\\repos\\programacao_funcional\\exercicio\\exercicio\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB63F69-5D3F-4531-BC57-16415855EAE4}|Exercicio\\Exercicio.csproj|solutionrelative:exercicio\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB63F69-5D3F-4531-BC57-16415855EAE4}|Exercicio\\Exercicio.csproj|c:\\users\\gabriel\\source\\repos\\programacao_funcional\\exercicio\\exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB63F69-5D3F-4531-BC57-16415855EAE4}|Exercicio\\Exercicio.csproj|solutionrelative:exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB63F69-5D3F-4531-BC57-16415855EAE4}|Exercicio\\Exercicio.csproj|c:\\users\\gabriel\\source\\repos\\programacao_funcional\\exercicio\\exercicio\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB63F69-5D3F-4531-BC57-16415855EAE4}|Exercicio\\Exercicio.csproj|solutionrelative:exercicio\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\Exercicio\\Exercicio\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Exercicio\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\Exercicio\\Exercicio\\Services\\ProductService.cs",
+              "RelativeToolTip": "Exercicio\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T23:16:48.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\Exercicio\\Exercicio\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Exercicio\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\Exercicio\\Exercicio\\Entities\\Product.cs",
+              "RelativeToolTip": "Exercicio\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:19:46.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\Exercicio\\Exercicio\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Programacao_Funcional\\Exercicio\\Exercicio\\Program.cs",
+              "RelativeToolTip": "Exercicio\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:12:25.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

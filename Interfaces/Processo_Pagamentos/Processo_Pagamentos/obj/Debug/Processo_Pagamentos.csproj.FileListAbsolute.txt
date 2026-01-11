@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\Interfaces\Processo_Pagamentos\Processo_Pagamentos\bin\Debug\Processo_Pagamentos.exe.config
+C:\Users\Gabriel\source\repos\Interfaces\Processo_Pagamentos\Processo_Pagamentos\bin\Debug\Processo_Pagamentos.exe
+C:\Users\Gabriel\source\repos\Interfaces\Processo_Pagamentos\Processo_Pagamentos\bin\Debug\Processo_Pagamentos.pdb
+C:\Users\Gabriel\source\repos\Interfaces\Processo_Pagamentos\Processo_Pagamentos\obj\Debug\Processo_Pagamentos.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Interfaces\Processo_Pagamentos\Processo_Pagamentos\obj\Debug\Processo_Pagamentos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Interfaces\Processo_Pagamentos\Processo_Pagamentos\obj\Debug\Processo_Pagamentos.exe
+C:\Users\Gabriel\source\repos\Interfaces\Processo_Pagamentos\Processo_Pagamentos\obj\Debug\Processo_Pagamentos.pdb

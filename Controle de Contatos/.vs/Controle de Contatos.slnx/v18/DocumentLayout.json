@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\Controle de Contatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C71A0807-C79F-7FBE-DD9B-A34B8F571C87}|Controle de Contatos\\Controle de Contatos.csproj|c:\\users\\gabriel\\source\\repos\\controle de contatos\\controle de contatos\\repositorio\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71A0807-C79F-7FBE-DD9B-A34B8F571C87}|Controle de Contatos\\Controle de Contatos.csproj|solutionrelative:controle de contatos\\repositorio\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71A0807-C79F-7FBE-DD9B-A34B8F571C87}|Controle de Contatos\\Controle de Contatos.csproj|c:\\users\\gabriel\\source\\repos\\controle de contatos\\controle de contatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C71A0807-C79F-7FBE-DD9B-A34B8F571C87}|Controle de Contatos\\Controle de Contatos.csproj|solutionrelative:controle de contatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71A0807-C79F-7FBE-DD9B-A34B8F571C87}|Controle de Contatos\\Controle de Contatos.csproj|c:\\users\\gabriel\\source\\repos\\controle de contatos\\controle de contatos\\views\\contato\\apagarconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C71A0807-C79F-7FBE-DD9B-A34B8F571C87}|Controle de Contatos\\Controle de Contatos.csproj|solutionrelative:controle de contatos\\views\\contato\\apagarconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Controle de Contatos\\Controle de Contatos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Controle de Contatos\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Controle de Contatos\\Controle de Contatos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Controle de Contatos\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T01:02:27.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContatoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Controle de Contatos\\Controle de Contatos\\Repositorio\\ContatoRepositorio.cs",
+              "RelativeDocumentMoniker": "Controle de Contatos\\Repositorio\\ContatoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Controle de Contatos\\Controle de Contatos\\Repositorio\\ContatoRepositorio.cs",
+              "RelativeToolTip": "Controle de Contatos\\Repositorio\\ContatoRepositorio.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T21:40:32.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApagarConfirmacao.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Controle de Contatos\\Controle de Contatos\\Views\\Contato\\ApagarConfirmacao.cshtml",
+              "RelativeDocumentMoniker": "Controle de Contatos\\Views\\Contato\\ApagarConfirmacao.cshtml",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Controle de Contatos\\Controle de Contatos\\Views\\Contato\\ApagarConfirmacao.cshtml",
+              "RelativeToolTip": "Controle de Contatos\\Views\\Contato\\ApagarConfirmacao.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T21:36:27.845Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

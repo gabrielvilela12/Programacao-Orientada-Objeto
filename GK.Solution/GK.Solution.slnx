@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Domain/GK.Domain.csproj" />
+  <Project Path="GK.Application/GK.Application.csproj" />
+  <Project Path="GK.Infrastructure/GK.Infrastructure.csproj" />
+  <Project Path="GK.Web/GK.Web.csproj" />
+</Solution>

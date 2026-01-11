@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{947D078F-7BCE-4E8E-A49A-9356B166674D}|Exercicio.csv\\Exercicio.csv.csproj|solutionrelative:exercicio.csv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{947D078F-7BCE-4E8E-A49A-9356B166674D}|Exercicio.csv\\Exercicio.csv.csproj|c:\\users\\gabriel\\source\\repos\\manipulacaoarquivos\\exercicio.csv\\exercicio.csv\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{947D078F-7BCE-4E8E-A49A-9356B166674D}|Exercicio.csv\\Exercicio.csv.csproj|solutionrelative:exercicio.csv\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gabriel\\source\\repos\\ManipulacaoArquivos\\Exercicio.csv\\exercicio.csv\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exercicio.csv\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +30,7 @@
               "RelativeToolTip": "Exercicio.csv\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T15:15:45.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T15:15:45.165Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "Exercicio.csv\\Program.cs",
               "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\ManipulacaoArquivos\\Exercicio.csv\\Exercicio.csv\\Program.cs",
               "RelativeToolTip": "Exercicio.csv\\Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAE0AAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T15:06:50.151Z",
               "EditorCaption": ""

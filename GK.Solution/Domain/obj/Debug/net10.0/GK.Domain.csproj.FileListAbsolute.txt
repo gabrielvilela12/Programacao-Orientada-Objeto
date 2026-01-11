@@ -1,0 +1,12 @@
+C:\Users\Gabriel\source\repos\GK.Solution\Domain\bin\Debug\net10.0\GK.Domain.deps.json
+C:\Users\Gabriel\source\repos\GK.Solution\Domain\bin\Debug\net10.0\GK.Domain.dll
+C:\Users\Gabriel\source\repos\GK.Solution\Domain\bin\Debug\net10.0\GK.Domain.pdb
+C:\Users\Gabriel\source\repos\GK.Solution\Domain\obj\Debug\net10.0\GK.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\GK.Solution\Domain\obj\Debug\net10.0\GK.Domain.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\GK.Solution\Domain\obj\Debug\net10.0\GK.Domain.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\GK.Solution\Domain\obj\Debug\net10.0\GK.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\GK.Solution\Domain\obj\Debug\net10.0\GK.Domain.sourcelink.json
+C:\Users\Gabriel\source\repos\GK.Solution\Domain\obj\Debug\net10.0\GK.Domain.dll
+C:\Users\Gabriel\source\repos\GK.Solution\Domain\obj\Debug\net10.0\refint\GK.Domain.dll
+C:\Users\Gabriel\source\repos\GK.Solution\Domain\obj\Debug\net10.0\GK.Domain.pdb
+C:\Users\Gabriel\source\repos\GK.Solution\Domain\obj\Debug\net10.0\ref\GK.Domain.dll

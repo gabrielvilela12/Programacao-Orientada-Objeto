@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\Registrar_Log\Registrar_Log\bin\Debug\Registrar_Log.exe.config
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\Registrar_Log\Registrar_Log\bin\Debug\Registrar_Log.exe
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\Registrar_Log\Registrar_Log\bin\Debug\Registrar_Log.pdb
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\Registrar_Log\Registrar_Log\obj\Debug\Registrar_Log.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\Registrar_Log\Registrar_Log\obj\Debug\Registrar_Log.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\Registrar_Log\Registrar_Log\obj\Debug\Registrar_Log.exe
+C:\Users\Gabriel\source\repos\Comparacao_Objetos\Registrar_Log\Registrar_Log\obj\Debug\Registrar_Log.pdb

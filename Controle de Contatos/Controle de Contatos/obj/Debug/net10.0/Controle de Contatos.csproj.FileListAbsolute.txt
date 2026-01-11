@@ -1,0 +1,247 @@
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\appsettings.json
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Controle de Contatos.staticwebassets.runtime.json
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Controle de Contatos.staticwebassets.endpoints.json
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Controle de Contatos.exe
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Controle de Contatos.deps.json
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Controle de Contatos.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Controle de Contatos.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Controle de Contatos.pdb
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\Controle de Contatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\Controle de Contatos.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\Controle de Contatos.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\Controle de Contatos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\Controle de Contatos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\Controle de Contatos.RazorAssemblyInfo.cache
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\Controle de Contatos.RazorAssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\Controle de Contatos.sourcelink.json
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\scopedcss\bundle\Controle de Contatos.styles.css
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\scopedcss\projectbundle\Controle de Contatos.bundle.scp.css
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\v4f41l39dw-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\7460pfbt65-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\effnkrqm7o-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\lzzympaxxk-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\v5ogx2xn63-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\pckiue5ekg-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\k0ynd0yhfu-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\50jeqyr9b6-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\cirnyf216q-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\p4y0dw6k4s-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\gfcwaepeh0-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\ykee1s3quj-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\hri2eyjoav-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\fdqwle8qxu-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\g5hkprtk89-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\z9fcoamkgx-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\6xk6h5kf96-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\t01rfafdqm-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\2p4vsa2jbw-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\ymamyjnssf-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\muczam5bmk-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\j5chm38t42-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\0kg1n6asm1-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\qfqe3kwyuq-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\b02w4xc6gy-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\f290xsuv2e-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\l9r57j3r6t-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\j2rnxp9qzd-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\c7vkgumxsx-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\7fj8ibdw9u-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\iy8qy2maai-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\hh8xvfxbvu-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\lzi80queye-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\53ublxr99e-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\fpc5nh7how-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\ocyobnnrqd-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\cmpak5ly7g-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\461l0vm7yg-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\fii6ufdprg-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\dzsb5odz3m-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\sudzfvaobj-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\ppjk8atbx5-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\obl3lyunp7-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\fax57exw6b-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\nnyxskk7kj-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\bcnoy4pkem-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\p30mav62sl-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\57f2cozo4q-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\fldikbnenp-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\ixjexa4qz0-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\08wbhvbbfg-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\hxv0h6zew1-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\hiovwv0565-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\9vrd1u39m0-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\7w806918pv-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\m4q15ie2fn-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\wqj5ebffwc-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\ojx8o3q790-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\sghc10b4rj-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\lfig7fendp-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\zawhr1eqqz-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\a76bkjwjua-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\rglq1wdj9g-{0}-4egr4ors19-4egr4ors19.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\compressed\q7cx7eptys-{0}-4egr4ors19-4egr4ors19.gz
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\Controle de Contatos.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\refint\Controle de Contatos.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\Controle de Contatos.pdb
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\Controle de Contatos.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\ref\Controle de Contatos.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-net472\Microsoft.Build.Locator.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-net472\Microsoft.IO.Redist.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-net472\Newtonsoft.Json.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-net472\System.Buffers.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-net472\System.Collections.Immutable.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-net472\System.CommandLine.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-net472\System.Memory.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-net472\System.Numerics.Vectors.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-net472\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-net472\System.Threading.Tasks.Extensions.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-net472\cs\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-net472\de\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-net472\es\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-net472\fr\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-net472\it\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-net472\ja\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-net472\ko\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-net472\pl\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-net472\pt-BR\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-net472\ru\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-net472\tr\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-net472\zh-Hans\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-net472\zh-Hant\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-netcore\Microsoft.Build.Locator.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.deps.json
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll.config
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-netcore\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-netcore\Newtonsoft.Json.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-netcore\System.Collections.Immutable.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-netcore\System.CommandLine.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-netcore\cs\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-netcore\de\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-netcore\es\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-netcore\fr\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-netcore\it\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-netcore\ja\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-netcore\ko\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-netcore\pl\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-netcore\pt-BR\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-netcore\ru\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-netcore\tr\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-netcore\zh-Hans\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\BuildHost-netcore\zh-Hant\System.CommandLine.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Humanizer.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Microsoft.Build.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Microsoft.Build.Tasks.Core.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Microsoft.Build.Utilities.Core.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Microsoft.NET.StringTools.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Npgsql.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\System.Formats.Nrbf.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\System.Resources.Extensions.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\System.Security.Permissions.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\bin\Debug\net10.0\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\Controle de Contatos.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Controle de Contatos\Controle de Contatos\obj\Debug\net10.0\Controle.2544BA82.Up2Date

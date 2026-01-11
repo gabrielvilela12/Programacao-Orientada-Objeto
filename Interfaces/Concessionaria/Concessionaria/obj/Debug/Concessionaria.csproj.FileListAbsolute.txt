@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\Interfaces\Concessionaria\Concessionaria\bin\Debug\Concessionaria.exe.config
+C:\Users\Gabriel\source\repos\Interfaces\Concessionaria\Concessionaria\bin\Debug\Concessionaria.exe
+C:\Users\Gabriel\source\repos\Interfaces\Concessionaria\Concessionaria\bin\Debug\Concessionaria.pdb
+C:\Users\Gabriel\source\repos\Interfaces\Concessionaria\Concessionaria\obj\Debug\Concessionaria.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Interfaces\Concessionaria\Concessionaria\obj\Debug\Concessionaria.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Interfaces\Concessionaria\Concessionaria\obj\Debug\Concessionaria.exe
+C:\Users\Gabriel\source\repos\Interfaces\Concessionaria\Concessionaria\obj\Debug\Concessionaria.pdb

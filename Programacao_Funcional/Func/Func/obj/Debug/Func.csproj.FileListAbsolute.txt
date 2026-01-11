@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Func\Func\bin\Debug\Func.exe.config
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Func\Func\bin\Debug\Func.exe
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Func\Func\bin\Debug\Func.pdb
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Func\Func\obj\Debug\Func.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Func\Func\obj\Debug\Func.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Func\Func\obj\Debug\Func.exe
+C:\Users\Gabriel\source\repos\Programacao_Funcional\Func\Func\obj\Debug\Func.pdb

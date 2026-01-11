@@ -1,0 +1,7 @@
+C:\Users\Gabriel\source\repos\Programacao_Funcional\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Gabriel\source\repos\Programacao_Funcional\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\Gabriel\source\repos\Programacao_Funcional\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Gabriel\source\repos\Programacao_Funcional\LINQ\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Programacao_Funcional\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Programacao_Funcional\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\Gabriel\source\repos\Programacao_Funcional\LINQ\LINQ\obj\Debug\LINQ.pdb

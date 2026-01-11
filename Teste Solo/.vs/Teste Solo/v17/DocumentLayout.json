@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\Teste Solo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0394EA1E-BEE3-4444-B81E-65F6BF6838DD}|Teste Solo\\Teste Solo.csproj|c:\\users\\gabriel\\source\\repos\\teste solo\\teste solo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0394EA1E-BEE3-4444-B81E-65F6BF6838DD}|Teste Solo\\Teste Solo.csproj|solutionrelative:teste solo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0394EA1E-BEE3-4444-B81E-65F6BF6838DD}|Teste Solo\\Teste Solo.csproj|c:\\users\\gabriel\\source\\repos\\teste solo\\teste solo\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0394EA1E-BEE3-4444-B81E-65F6BF6838DD}|Teste Solo\\Teste Solo.csproj|solutionrelative:teste solo\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0394EA1E-BEE3-4444-B81E-65F6BF6838DD}|Teste Solo\\Teste Solo.csproj|c:\\users\\gabriel\\source\\repos\\teste solo\\teste solo\\infrastructure\\repositories\\cartaocreditorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0394EA1E-BEE3-4444-B81E-65F6BF6838DD}|Teste Solo\\Teste Solo.csproj|solutionrelative:teste solo\\infrastructure\\repositories\\cartaocreditorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0394EA1E-BEE3-4444-B81E-65F6BF6838DD}|Teste Solo\\Teste Solo.csproj|c:\\users\\gabriel\\source\\repos\\teste solo\\teste solo\\infrastructure\\configurations\\cartaocreditoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0394EA1E-BEE3-4444-B81E-65F6BF6838DD}|Teste Solo\\Teste Solo.csproj|solutionrelative:teste solo\\infrastructure\\configurations\\cartaocreditoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0394EA1E-BEE3-4444-B81E-65F6BF6838DD}|Teste Solo\\Teste Solo.csproj|c:\\users\\gabriel\\source\\repos\\teste solo\\teste solo\\controllers\\cartaocreditocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0394EA1E-BEE3-4444-B81E-65F6BF6838DD}|Teste Solo\\Teste Solo.csproj|solutionrelative:teste solo\\controllers\\cartaocreditocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0394EA1E-BEE3-4444-B81E-65F6BF6838DD}|Teste Solo\\Teste Solo.csproj|c:\\users\\gabriel\\source\\repos\\teste solo\\teste solo\\infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0394EA1E-BEE3-4444-B81E-65F6BF6838DD}|Teste Solo\\Teste Solo.csproj|solutionrelative:teste solo\\infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0394EA1E-BEE3-4444-B81E-65F6BF6838DD}|Teste Solo\\Teste Solo.csproj|c:\\users\\gabriel\\source\\repos\\teste solo\\teste solo\\models\\cartaocredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0394EA1E-BEE3-4444-B81E-65F6BF6838DD}|Teste Solo\\Teste Solo.csproj|solutionrelative:teste solo\\models\\cartaocredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Teste Solo\\Teste Solo\\Program.cs",
+              "RelativeDocumentMoniker": "Teste Solo\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Teste Solo\\Teste Solo\\Program.cs",
+              "RelativeToolTip": "Teste Solo\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T13:21:50.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Teste Solo\\Teste Solo\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Teste Solo\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Teste Solo\\Teste Solo\\wwwroot\\index.html",
+              "RelativeToolTip": "Teste Solo\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-30T13:20:59.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartaoCreditoController.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Teste Solo\\Teste Solo\\Controllers\\CartaoCreditoController.cs",
+              "RelativeDocumentMoniker": "Teste Solo\\Controllers\\CartaoCreditoController.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Teste Solo\\Teste Solo\\Controllers\\CartaoCreditoController.cs",
+              "RelativeToolTip": "Teste Solo\\Controllers\\CartaoCreditoController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T13:01:40.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartaoCreditoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Teste Solo\\Teste Solo\\Infrastructure\\Repositories\\CartaoCreditoRepository.cs",
+              "RelativeDocumentMoniker": "Teste Solo\\Infrastructure\\Repositories\\CartaoCreditoRepository.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Teste Solo\\Teste Solo\\Infrastructure\\Repositories\\CartaoCreditoRepository.cs",
+              "RelativeToolTip": "Teste Solo\\Infrastructure\\Repositories\\CartaoCreditoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T13:01:16.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartaoCreditoConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Teste Solo\\Teste Solo\\Infrastructure\\Configurations\\CartaoCreditoConfiguration.cs",
+              "RelativeDocumentMoniker": "Teste Solo\\Infrastructure\\Configurations\\CartaoCreditoConfiguration.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Teste Solo\\Teste Solo\\Infrastructure\\Configurations\\CartaoCreditoConfiguration.cs",
+              "RelativeToolTip": "Teste Solo\\Infrastructure\\Configurations\\CartaoCreditoConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:44:55.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Teste Solo\\Teste Solo\\Infrastructure\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Teste Solo\\Infrastructure\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Teste Solo\\Teste Solo\\Infrastructure\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Teste Solo\\Infrastructure\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T02:32:48.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartaoCredito.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Teste Solo\\Teste Solo\\Models\\CartaoCredito.cs",
+              "RelativeDocumentMoniker": "Teste Solo\\Models\\CartaoCredito.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Teste Solo\\Teste Solo\\Models\\CartaoCredito.cs",
+              "RelativeToolTip": "Teste Solo\\Models\\CartaoCredito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T02:12:34.201Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

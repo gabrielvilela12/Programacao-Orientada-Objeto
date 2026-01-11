@@ -16,7 +16,7 @@ namespace Criar_Excel
 
                 using (StreamWriter sw = new StreamWriter(path))
                 {
-                    sw.WriteLine("Valor1;Valor2;Valor3"); // Adiciona três valores em uma linha em casas diferentes usando como separador ";"
+                    sw.WriteLine("Luis;Pedro;Marlol"); // Adiciona três valores em uma linha em casas diferentes usando como separador ";"
                 }
             } catch (IOException)
             {
